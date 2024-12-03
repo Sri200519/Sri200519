@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer and student p
 
 - 💬 **Ask me about**:
   - **Python** (Flask, Django)
-  - **C/C++** (System Programming, Data Structures)
+  - **C/C++/Java** (System Programming, Data Structures)
   - **JavaScript/React** (Frontend development)
   - **SQL/NoSQL** (Database design)
   - **Cloud Platforms** (GCP, AWS)
