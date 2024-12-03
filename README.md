@@ -39,7 +39,7 @@ Here are a few of my notable projects:
 ### **[Autism Support Resource App](https://github.com/Sri200519/Parent-Support-Resource)**
 A web app designed to help individuals with autism, their families, and caregivers by providing a centralized location for autism-related resources. Features include speech recognition, geolocation, and a resource database powered by Google Cloud Storage and Leaflet maps.
 
-### **[Beacons Data Scraping & Analysis](https://github.com/Sri200519/GCP-Buckets)**
+### **[Beacons Data Scraping & Analysis](https://github.com/Sri200519/GCP-Bucket)**
 A Python-based script to scrape and analyze autism-related data from various online databases, including food bank schedules and autism-related services.
 
 ## 📈 GitHub Stats
