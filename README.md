@@ -50,3 +50,4 @@ A Python-based script to scrape and analyze autism-related data from various onl
 
 - LinkedIn: [linkedin.com/in/srikar-kopparapu-60350a219](https://linkedin.com/in/srikar-kopparapu-60350a219)
 - Email: [skopparapu19@gmail.com](mailto:skopparapu19@gmail.com)
+- Website [srikar-portfolio](https://srikar-portfolio-swart.vercel.app/)
