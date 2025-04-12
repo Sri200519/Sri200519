@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer and student p
 
 - 🌟 **Current Projects**:
   - Developing an **Autism Support Resource app**, which provides helpful information and services to people with autism.
-  - Building a **fantasy football card game** that teaches players how to make fair trades and manage teams.
+  - Building a **Ticketing Platform** that generates tickets and checks them against a database.
   - Creating a **Medical Digest website** to centralize and share medical news and research.
   - Developing a **Finance 301 Calculator Hub**, a suite of financial calculators for students and professionals.
   - Maintaining my **personal portfolio website** showcasing my work and experience.
