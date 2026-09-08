@@ -54,13 +54,10 @@ A collection of financial calculators designed to assist students and profession
 ### **[Personal Portfolio Website](https://srikar-portfolio-swart.vercel.app/)**
 A portfolio website showcasing my projects, skills, and experiences, built using React and hosted on Vercel.
 
-## 📈 GitHub Stats
-
-![Srikar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri200519&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
 ## 📢 Connect With Me
 
-- LinkedIn: [linkedin.com/in/srikar-kopparapu-60350a219](https://linkedin.com/in/srikar-kopparapu-60350a219)
+- LinkedIn: [linkedin.com/in/skopparapu19](https://linkedin.com/in/skopparapu19)
 - Email: [skopparapu19@gmail.com](mailto:skopparapu19@gmail.com)
-- Website: [srikar-portfolio](https://srikar-portfolio-swart.vercel.app/)
+- Website: [srikar-portfolio](https://skopparapu.vercel.app/)
+
 
